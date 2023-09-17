@@ -4,7 +4,7 @@
 
 🌠 I’m deeply passionate about bridging the realms of fashion, technology, and sustainability.
 
-📚 Currently, I'm immersing myself in DevOps, Solidity, Angular, Google Cloud, and Adobe Cloud Design.
+📚 Currently, I'm immersing myself in DevOps, Solidity, Angular, Google Cloud, and Adobe Creative Cloud.
 
 🌍 Language of choice? Universal, of course! Fluent in English and adept at bringing diverse minds together to achieve stellar results.
 
@@ -15,7 +15,7 @@
     - XOwlPost-TicTacToe: In the cosmic game, every move creates ripples across the universe!
     - XO NFT series: Legacy of Luminaries - Bearing the torchlight {TGR}.
     - XO-Lottery: Embark on interstellar adventures to uncover hidden digital treasures.
-    - Galactic Community Hubs: Join our Patreon and Discord starbases.
+    - Galactic Community Bases: Join our vibrant Patreon and Discord Hubs.
 
 💬 Reach out if:
     - You're intrigued by the XO vision.
